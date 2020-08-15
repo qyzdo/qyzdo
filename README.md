@@ -1,12 +1,5 @@
 
-### Hi there, I'm Oskar 👋
-
-## I'm a Computer Science student!
-
-- 🔭 I’m currently working on improving my iOS Development Skills!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other iOS developers
-- 🥅 2020 Goals: Contribute to Open Source projects
+## Hi there, I'm Oskar 👋
 
 ### Connect with me:
 
