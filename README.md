@@ -34,3 +34,6 @@
 
 [instagram]: https://www.instagram.com/oskarr1337/
 [linkedin]: https://www.linkedin.com/in/oskar-figiel-597246158/
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
