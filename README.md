@@ -36,4 +36,10 @@
 [linkedin]: https://www.linkedin.com/in/oskar-figiel-597246158/
 
 <!--START_SECTION:waka-->
+```text
+C             3 hrs 13 mins   ███████████████████████░░   95.21 % 
+Objective-C   7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
+JSON          2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
+Other         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+```
 <!--END_SECTION:waka-->
