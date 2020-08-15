@@ -35,6 +35,8 @@
 [instagram]: https://www.instagram.com/oskarr1337/
 [linkedin]: https://www.linkedin.com/in/oskar-figiel-597246158/
 
+
+📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
 ```text
 C             3 hrs 13 mins   ███████████████████████░░   95.21 % 
