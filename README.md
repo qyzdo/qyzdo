@@ -32,6 +32,6 @@
 📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
 ```text
-Swift   1 hr 55 mins    █████████████████████████   99.45 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
