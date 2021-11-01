@@ -21,11 +21,3 @@
 
 [instagram]: https://www.instagram.com/oskarr1337/
 [linkedin]: https://www.linkedin.com/in/oskar-figiel-597246158/
-
-
-📊 **Weekly development breakdown**
-<!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
-<!--END_SECTION:waka-->
