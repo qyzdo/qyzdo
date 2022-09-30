@@ -14,10 +14,3 @@
 ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)&nbsp;
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)&nbsp;
-
-
-
----
-
-[instagram]: https://www.instagram.com/oskarr1337/
-[linkedin]: https://www.linkedin.com/in/oskar-figiel-597246158/
